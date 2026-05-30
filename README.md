@@ -117,6 +117,11 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="579" height="199" alt="image" src="https://github.com/user-attachments/assets/bf88fd9e-70a3-4319-aa4a-7b9f0f95cd1f" />
 </p>
 
+<p> 6. Allow anyone to create tickets by going to Admin Panel -> Settings -> Users -> Settings (and make sure that "Regquire registration and login to create tickets" is unchecked.)</p>
+
+<p><img width="581" height="413" alt="image" src="https://github.com/user-attachments/assets/08d3167d-c24c-4228-af61-be432f006435" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
