@@ -134,6 +134,13 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="520" height="291" alt="image" src="https://github.com/user-attachments/assets/60641775-b229-4158-a44d-dcef92591908" />
 </p>
 
+<p>Under Teams, selec the team, and then click create.</p>
+
+<p><img width="520" height="233" alt="image" src="https://github.com/user-attachments/assets/0ce13ca0-4039-40e5-9953-d172abcfd4ed" />
+</p>
+
+<p>Repeat for however many agents you need to create, with the corresponding departments and roles.</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
