@@ -58,9 +58,10 @@ Click on Admin Panel within osTicket
 </p>
 
 <p>
-  Click on Agents -> Roles
+  Click on Agents -> Roles -> Add New Role and name it Supreme Admin
 </p>
-<p><img width="587" height="253" alt="image" src="https://github.com/user-attachments/assets/1d5aad00-89e7-40ed-8be0-be227526b351" />
+<p><img width="587" height="253" alt="image" src="https://github.com/user-attachments/assets/ff956d75-1b1d-407c-9773-63427fb99b44" />
+
 </p>
 End Users osTicket URL:
 http://localhost/osTicket 
