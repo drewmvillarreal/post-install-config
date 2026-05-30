@@ -61,8 +61,19 @@ Click on Admin Panel within osTicket
   Click on Agents -> Roles -> Add New Role and name it Supreme Admin
 </p>
 <p><img width="587" height="253" alt="image" src="https://github.com/user-attachments/assets/ff956d75-1b1d-407c-9773-63427fb99b44" />
-
 </p>
+
+<p><img width="579" height="346" alt="image" src="https://github.com/user-attachments/assets/8b7cfc3c-8f4d-41ef-a0cd-aceaa78fdf28" />
+</p>
+
+<p> Click on Permissions and check all permissions under Tickets, Tasks, and Knowledgebase, then click Add Role at the bottom</p>
+<p><img width="582" height="428" alt="image" src="https://github.com/user-attachments/assets/5aec4937-3366-4fb4-abaa-c8bd59bcc279" />
+</p>
+<p><img width="583" height="338" alt="image" src="https://github.com/user-attachments/assets/b0fe903d-afca-428c-9e5e-9f7a50617866" />
+</p>
+<p><img width="579" height="249" alt="image" src="https://github.com/user-attachments/assets/cd96d2b6-c6f4-439b-803e-ab62637922f2" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
