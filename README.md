@@ -77,11 +77,6 @@ Click on Admin Panel within osTicket
 End Users osTicket URL:
 http://localhost/osTicket 
 
-Acknowledge Agent Panel vs Admin Panel
-
-Configure Roles (for grouping permissions)
-Admin Panel -> Agents -> Roles
-Supreme Admin
 
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
 Admin Panel -> Agents -> Departments
