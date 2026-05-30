@@ -141,15 +141,11 @@ The parent department can be listed as Support, and name the department as SysAd
 
 <p>Repeat for however many agents you need to create, with the corresponding departments and roles.</p>
 
+<p><img width="516" height="215" alt="image" src="https://github.com/user-attachments/assets/d8cc8a0a-6d3b-4ad0-9178-38b921d661cd" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
-
-
-
-Configure Agents (workers)
-Admin Panel -> Agents -> Add New
-Jane (Dept: SysAdmins)
-John (Dept: Support)
 
 Configure Users (customers)
 Agent Panel -> Users -> Add New
