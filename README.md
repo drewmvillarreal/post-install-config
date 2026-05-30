@@ -201,5 +201,6 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="520" height="351" alt="image" src="https://github.com/user-attachments/assets/f7c3c28c-6a52-43c9-8cad-d6955d15979a" />
 </p>
 
+<p>Congratulations! You have just finished initial setup of osTicket!</p>
 </p>
 
