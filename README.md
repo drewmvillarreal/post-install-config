@@ -30,12 +30,38 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Connect to your virtual machine using remote desktop connection app. 
 </p>
 <p>
-Admin/Analyst Login Page:
-http://localhost/osTicket/scp/login.php 
+<img width="399" height="239" alt="image" src="https://github.com/user-attachments/assets/a8cac344-79c4-4e1c-824a-17880b2c22c1" />
+</p>
 
+ <p>
+2. Log in to the Admin/Analyst Login Page:
+http://localhost/osTicket/scp/login.php 
+ </p>
+ <p>
+<img width="247" height="177" alt="image" src="https://github.com/user-attachments/assets/e9f92cad-d59d-48cd-ae8c-20575a00974e" />
+ </p>
+ <p>
+<img width="578" height="212" alt="image" src="https://github.com/user-attachments/assets/2a95ae31-1228-4c93-b5ba-b7bdfdbf1797" />
+
+</p>
+
+<p>
+3. Configure roles for grouping permissions. 
+  
+Click on Admin Panel within osTicket
+
+<img width="578" height="212" alt="image" src="https://github.com/user-attachments/assets/dd8d4f2d-5fbf-410d-b463-db0160d45ef3" />
+
+</p>
+
+<p>
+  Click on Agents -> Roles
+</p>
+<p><img width="587" height="253" alt="image" src="https://github.com/user-attachments/assets/1d5aad00-89e7-40ed-8be0-be227526b351" />
+</p>
 End Users osTicket URL:
 http://localhost/osTicket 
 
