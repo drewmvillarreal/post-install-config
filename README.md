@@ -109,6 +109,14 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="574" height="181" alt="image" src="https://github.com/user-attachments/assets/b8906e30-0a5c-49b8-8807-8809d44d3c6e" />
 </p>
 
+<p>Give the new team a name, ex. Online Banking, and click Create Team</p>
+
+<p><img width="578" height="408" alt="image" src="https://github.com/user-attachments/assets/2c1d9336-fe95-4c87-9861-6c0cb0688d9d" />
+</p>
+
+<p><img width="579" height="199" alt="image" src="https://github.com/user-attachments/assets/bf88fd9e-70a3-4319-aa4a-7b9f0f95cd1f" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
