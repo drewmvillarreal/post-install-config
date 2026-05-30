@@ -144,6 +144,16 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="516" height="215" alt="image" src="https://github.com/user-attachments/assets/d8cc8a0a-6d3b-4ad0-9178-38b921d661cd" />
 </p>
 
+<p>8. Configure users by going to Agent Panel -> Users -> Add User</p>
+
+<p><img width="510" height="186" alt="image" src="https://github.com/user-attachments/assets/2aa874b5-2200-41d4-954b-d2a10da13231" />
+</p>
+
+<p>Enter the user email address and name, and click Add User.</p>
+
+<p><img width="366" height="220" alt="image" src="https://github.com/user-attachments/assets/62a033e6-7bc4-4afb-a20b-247641a240cd" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
