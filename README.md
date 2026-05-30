@@ -96,6 +96,9 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="583" height="577" alt="image" src="https://github.com/user-attachments/assets/365ebd25-743d-42c8-8173-d17fe19dbfe6" />
 </p>
 
+<p><img width="576" height="259" alt="image" src="https://github.com/user-attachments/assets/162be4d2-3c6d-4197-b80c-80d759fa948f" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
