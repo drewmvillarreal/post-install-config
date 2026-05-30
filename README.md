@@ -78,7 +78,7 @@ Click on Admin Panel within osTicket
 <p><img width="572" height="268" alt="image" src="https://github.com/user-attachments/assets/a029f85f-6685-4303-8937-c202a576b4ce" />
 </p>
 
-<p>4. Configure teams by going to Admin Panel -> Agents -> Departments</p>
+<p>4. Configure departments by going to Admin Panel -> Agents -> Departments</p>
 
 <p><img width="578" height="199" alt="image" src="https://github.com/user-attachments/assets/a755e2e2-23ea-4b56-be04-1629028fe5ee" />
 </p>
@@ -99,13 +99,20 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="576" height="259" alt="image" src="https://github.com/user-attachments/assets/162be4d2-3c6d-4197-b80c-80d759fa948f" />
 </p>
 
+<p> 5. Configure teams by going to Admin Panel -> Agents -> Teams</p>
+
+<p><img width="574" height="181" alt="image" src="https://github.com/user-attachments/assets/941be52f-60f2-45c1-8692-e7e28a535907" />
+</p>
+
+<p> Click on Add New Team</p>
+
+<p><img width="574" height="181" alt="image" src="https://github.com/user-attachments/assets/b8906e30-0a5c-49b8-8807-8809d44d3c6e" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
 
-Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-Admin Panel -> Agents -> Departments
-SysAdmins
 
 Configure Teams
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
