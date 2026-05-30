@@ -78,6 +78,24 @@ Click on Admin Panel within osTicket
 <p><img width="572" height="268" alt="image" src="https://github.com/user-attachments/assets/a029f85f-6685-4303-8937-c202a576b4ce" />
 </p>
 
+<p>4. Configure teams by going to Admin Panel -> Agents -> Departments</p>
+
+<p><img width="578" height="199" alt="image" src="https://github.com/user-attachments/assets/a755e2e2-23ea-4b56-be04-1629028fe5ee" />
+</p>
+
+<p> Click on Add New Department</p>
+<p><img width="578" height="199" alt="image" src="https://github.com/user-attachments/assets/53d99e5b-8099-4f33-b15f-ef3730fa8030" />
+</p>
+
+<p> For now, complete the required fields on the settings tab.
+
+The parent department can be listed as Support, and name the department as SysAdmins.
+
+*Note: SLAs have not been created yet as we will create those later.</p>
+
+<p><img width="583" height="577" alt="image" src="https://github.com/user-attachments/assets/365ebd25-743d-42c8-8173-d17fe19dbfe6" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
