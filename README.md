@@ -186,30 +186,20 @@ The parent department can be listed as Support, and name the department as SysAd
 
 </p>
 
+<p>10. Configure Help Topics by going to Admin Panel -> Manage -> Help Topics -> Add New Help Topic</p>
+<p><img width="515" height="227" alt="image" src="https://github.com/user-attachments/assets/f123bf8c-a22c-4e77-8679-76c7388e241d" />
+</p>
 
-Configure Help Topics (For when users create a ticket)
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
-Other
+<p>Here we can create some common help topics</p>
+
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+
+<p><img width="520" height="351" alt="image" src="https://github.com/user-attachments/assets/f7c3c28c-6a52-43c9-8cad-d6955d15979a" />
+</p>
 
 </p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
