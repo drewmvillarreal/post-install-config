@@ -157,16 +157,20 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="525" height="221" alt="image" src="https://github.com/user-attachments/assets/19acabb9-8441-446e-99b4-f32a042fe154" />
 </p>
 
-<p>9. Configure SLA by going to Admin Panel -> Manage -> SLA</p>
+<p>9. Configure SLA by going to Admin Panel -> Manage -> SLA -> Add New SLA Plan</p>
 
-<p><img width="520" height="168" alt="image" src="https://github.com/user-attachments/assets/05c77d58-e630-4661-b432-ef3aa02982d2" />
+<p><img width="520" height="168" alt="image" src="https://github.com/user-attachments/assets/3ab641d2-c4bd-4d24-97ec-877f63d45832" />
+
 </p>
 
 <p>For this, we want to make three different SLAs.</p>
 <p> 
- - Sev-A (Grace Period: 1 hour, Schedule: 24/7)
- - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
- - Sev-C (Grace Period: 8 hours, Business Hours)
+ 
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+ 
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+  
+- Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 
 
