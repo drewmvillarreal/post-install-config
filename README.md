@@ -117,23 +117,27 @@ The parent department can be listed as Support, and name the department as SysAd
 <p><img width="579" height="199" alt="image" src="https://github.com/user-attachments/assets/bf88fd9e-70a3-4319-aa4a-7b9f0f95cd1f" />
 </p>
 
-<p> 6. Allow anyone to create tickets by going to Admin Panel -> Settings -> Users -> Settings (and make sure that "Regquire registration and login to create tickets" is unchecked.)</p>
+<p> 6. Allow anyone to create tickets by going to Admin Panel -> Settings -> Users -> Settings (and make sure that "Regquire registration and login to create tickets" is unchecked, unless you want only registered users to be able to submit tickets.)</p>
 
 <p><img width="581" height="413" alt="image" src="https://github.com/user-attachments/assets/08d3167d-c24c-4228-af61-be432f006435" />
+</p>
+
+<p>7. Configure agents by going to Admin Panel -> Agents -> Add New Agent, and fill out the information under Account</p>
+
+<p>You can set the password by clicking Set Password, and then unchecking "Send the agent a password reset email". Once you enter the password and confirm the password, uncheck "Require password change at next login" and click Set.</p>
+
+<p><img width="351" height="214" alt="image" src="https://github.com/user-attachments/assets/f9c5f2a9-fc5a-4a57-b9bc-5519b1978976" />
+</p>
+
+<p>Under Access, select the department and role.</p>
+
+<p><img width="520" height="291" alt="image" src="https://github.com/user-attachments/assets/60641775-b229-4158-a44d-dcef92591908" />
 </p>
 
 End Users osTicket URL:
 http://localhost/osTicket 
 
 
-
-Configure Teams
-Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
-Online Banking
-
-Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
-Registration Required: Require registration and login to create tickets 
 
 Configure Agents (workers)
 Admin Panel -> Agents -> Add New
