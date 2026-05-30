@@ -167,10 +167,19 @@ The parent department can be listed as Support, and name the department as SysAd
 <p> 
  
 - Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+
+  <img width="515" height="358" alt="image" src="https://github.com/user-attachments/assets/25cba51c-5a89-4736-9247-901f75b74c2e" />
+
  
 - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+
+  <img width="514" height="356" alt="image" src="https://github.com/user-attachments/assets/f659182e-34ec-4f5e-8c8d-150d46c8ff5f" />
+
   
 - Sev-C (Grace Period: 8 hours, Business Hours)
+
+  <img width="516" height="357" alt="image" src="https://github.com/user-attachments/assets/3d9dfa53-dd88-49bb-b3e9-864f2af6f90c" />
+
 </p>
 
 
