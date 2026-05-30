@@ -74,6 +74,10 @@ Click on Admin Panel within osTicket
 <p><img width="579" height="249" alt="image" src="https://github.com/user-attachments/assets/cd96d2b6-c6f4-439b-803e-ab62637922f2" />
 </p>
 
+<p> Supreme Admin role has now been created</p>
+<p><img width="572" height="268" alt="image" src="https://github.com/user-attachments/assets/a029f85f-6685-4303-8937-c202a576b4ce" />
+</p>
+
 End Users osTicket URL:
 http://localhost/osTicket 
 
